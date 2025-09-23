@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [kk2085@bath.ac.uk](mailto:your.email@example.com)
+**Kaloyan Kirov** - [kk2085@bath.ac.uk](mailto:your.email@example.com)
 
 Project Link: [https://github.com/Kaloyan2004/zoo-animal-classification](https://github.com/Kaloyan2004/zoo-animal-classification)
 
